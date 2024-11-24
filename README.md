@@ -4,11 +4,9 @@
 🤝 I’m actively seeking opportunities to **collaborate on exciting Web Development projects**, where I can contribute and learn.  
 
 <br>
-
 ### 📫 **How to Reach Me**  
-- 📧 **Email:** [your email address]  
-- 💼 **LinkedIn:** [your LinkedIn profile link]  
-- 🌐 **Portfolio:** [link to your personal portfolio/website if available]  
+- 📧 **Email:** [ishwarigondkar7@gmail.com]  
+- 💼 **LinkedIn:** [(https://www.linkedin.com/in/ishwari-gondkar-31a296258/)]  
 
   
 
