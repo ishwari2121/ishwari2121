@@ -1,10 +1,10 @@
-👋 Hi, I’m Ishwari Gondkar
-🌟 Passionate Web Developer with a keen interest in coding and creating impactful digital experiences.
-💻 I specialize in Web Development and enjoy turning ideas into interactive, responsive, and user-friendly websites.
-🤝 I’m actively seeking opportunities to collaborate on exciting Web Development projects, where I can contribute and learn.
-📫 How to Reach Me
-📧 Email: [ishwarigondkar7@gmail.com]
-💼 LinkedIn: [https://www.linkedin.com/in/ishwari-gondkar-31a296258/]
+-👋 Hi, I’m Ishwari Gondkar
+-🌟 Passionate Web Developer with a keen interest in coding and creating impactful digital experiences.
+-💻 I specialize in Web Development and enjoy turning ideas into interactive, responsive, and user-friendly websites.
+-🤝 I’m actively seeking opportunities to collaborate on exciting Web Development projects, where I can contribute and learn.
+-📫 How to Reach Me : 
+-📧 Email: [ishwarigondkar7@gmail.com]
+-💼 LinkedIn: [https://www.linkedin.com/in/ishwari-gondkar-31a296258/]
   
 
 
